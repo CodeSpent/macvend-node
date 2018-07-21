@@ -2,7 +2,7 @@
 
 macVend is a small CLI focused tool for referencing Mac Address vendor information for the purpose of identifying devices on a given network or determing origin of internal components. This tool does not save requests or input, and retrieves data from the MAC Vendor Lookup API located at https://macvendors.com/.
 
-![Imgur](https://i.imgur.com/47hFoxB.png)
+![macVend CLI Screenshot](https://i.imgur.com/6XwW5vg.png)
 
 ## Getting Started
 
