@@ -7,7 +7,7 @@
   "main": "macVend.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "macvend": "node macVend.js"
+    "macvend": "macVend.js"
   },
   "author": "Patrick Hanford",
   "license": "ISC",
@@ -18,7 +18,6 @@
     "figlet": "^1.2.0",
     "node-js": "^1.0.0",
     "npm": "^6.2.0",
-    "ping": "^0.2.2",
     "querystring": "^0.2.0",
     "readline-sync": "^1.4.9",
     "request": "^2.87.0"
